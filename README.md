@@ -1,6 +1,6 @@
 # Palindrome Project
 
-##Purpose of project
+## Purpose of project
 
 This project was intended to produce two algorithms
 

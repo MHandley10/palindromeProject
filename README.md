@@ -26,7 +26,7 @@ A series of tests to ensure it recognises words correctly and doesn't include sy
 
 ## Completed Items
 
-**IsPalindrome Class (checking a String for if it's palindromic)** - Completed 08/03/2022
+**IsPalindrome Class (checking a String for if it's palindromic)** - Completed *08/03/2022*
 
-**PalindromeChecker Class (checking a String sentence for palindromes and returning the longest Palindrome)** - Completed 09/03/2022
+**PalindromeChecker Class (checking a String sentence for palindromes and returning the longest Palindrome)** - Completed *09/03/2022*
 
